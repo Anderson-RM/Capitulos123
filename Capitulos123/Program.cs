@@ -14,7 +14,7 @@ namespace Capitulos123
             Console.WriteLine("1. Capitulo I");
             Console.WriteLine("2. Capitulo II");
             Console.WriteLine("3. Capitulo III");             
-            Console.Write("Que operación deseas hacer: ");            
+            Console.Write("Que operación deseas hacer:  ");            
 
             int opcion;
             opcion = int.Parse(Console.ReadLine());            
